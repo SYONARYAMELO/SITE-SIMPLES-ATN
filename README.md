@@ -14,3 +14,6 @@ O usuário pode alternar entre os temas com um botão circular, proporcionando u
 HTML → Estrutura da página
 CSS → Estilização e variáveis CSS
 JavaScript → Manipulação do DOM e troca de temas
+
+![Tela Dark](img/TelaDark.png)
+![Tela White](img/TelaWhite.png)
