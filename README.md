@@ -1,7 +1,9 @@
 # SITE-SIMPLES-ATN
 
 Projeto: Tema Claro e Escuro
-Este é um projeto simples de lista de tarefas com suporte para modo claro e escuro. O usuário pode alternar entre os temas com um botão circular, proporcionando uma experiência interativa e moderna.
+
+Este é um projeto simples de lista de tarefas com suporte para modo claro e escuro. 
+O usuário pode alternar entre os temas com um botão circular, proporcionando uma experiência interativa e moderna.
 
 🎯 Funcionalidades
 ✅ Adicionar estilos visuais à página
